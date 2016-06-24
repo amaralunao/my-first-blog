@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+myenv
+db.sqlite3
+/static
+.DS_Store
+virtualenv-1.10.1
+virtualenv-1.10.1.tar.gz
